@@ -16,7 +16,7 @@ CONTACT ME:
 https://www.linkedin.com/in/ketan-patil1020/
 
 MY WEBSITE:
-http://ketan-portfolio.epizy.com/
+https://ketan2010.github.io/
 
 MY CV:
 https://drive.google.com/file/d/1O2Hv5ccT24kqWqsFyyX6rof74CCCD1gY/view?usp=sharing
