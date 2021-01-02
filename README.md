@@ -19,7 +19,7 @@ MY WEBSITE:
 https://ketan2010.github.io/
 
 MY CV:
-https://drive.google.com/file/d/1O2Hv5ccT24kqWqsFyyX6rof74CCCD1gY/view?usp=sharing
+https://ketan2010.github.io/assets/img/Ketan%20Patil%20Resume.pdf
 
 DEV Community:
 https://dev.to/ketan_patil
