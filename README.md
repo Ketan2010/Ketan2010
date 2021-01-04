@@ -11,13 +11,12 @@ I believe in the power of programming to transform and improve lives of people a
 - 💬 Ask me about my projects!
 - 📫 How to reach me: k2p1020@gmail.com | ketan.patil1@vit.edu.in
 
-
+<!--
 <p align="center">
-  
 ![Gaurang github stats](https://github-readme-stats.vercel.app/api?username=Ketan2010&show_icons=true&theme=tokyonight)
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan2010&layout=compact&hide=Jupyter Notebook&theme=tokyonight">
 </p>
-
+--!>
 
 
 CONTACT ME:
