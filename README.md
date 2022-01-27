@@ -12,16 +12,16 @@ I believe in the power of programming to transform and improve lives of people a
 - 📫 How to reach me: k2p1020@gmail.com | ketan.patil1@vit.edu.in
 
 
-CONTACT ME:
+LINKEDIN:
 https://www.linkedin.com/in/ketan-patil1020/
 
-MY WEBSITE:
+PORTFOLIO:
 https://ketan2010.github.io/
 
-MY CV:
+RESUME:
 https://ketan2010.github.io/assets/img/Ketan%20Patil%20Resume.pdf
 
-DEV Community:
+BLOG:
 https://dev.to/ketan_patil
 
 
